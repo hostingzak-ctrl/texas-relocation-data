@@ -1,0 +1,58 @@
+[
+  {
+    "county": "Fort Bend County",
+    "metro_area": "Sugar Land, Katy",
+    "combined_rate_pre_exemption_pct": 2.48,
+    "annual_tax_400k_after_140k_homestead_usd": 6448,
+    "monthly_impact_usd": 537
+  },
+  {
+    "county": "Tarrant County",
+    "metro_area": "Fort Worth, Arlington",
+    "combined_rate_pre_exemption_pct": 2.37,
+    "annual_tax_400k_after_140k_homestead_usd": 6162,
+    "monthly_impact_usd": 514
+  },
+  {
+    "county": "Harris County",
+    "metro_area": "Houston, Pasadena",
+    "combined_rate_pre_exemption_pct": 2.31,
+    "annual_tax_400k_after_140k_homestead_usd": 6006,
+    "monthly_impact_usd": 501
+  },
+  {
+    "county": "Collin County",
+    "metro_area": "Plano, Frisco",
+    "combined_rate_pre_exemption_pct": 2.19,
+    "annual_tax_400k_after_140k_homestead_usd": 5694,
+    "monthly_impact_usd": 475
+  },
+  {
+    "county": "Dallas County",
+    "metro_area": "Dallas, Irving",
+    "combined_rate_pre_exemption_pct": 2.23,
+    "annual_tax_400k_after_140k_homestead_usd": 5789,
+    "monthly_impact_usd": 482
+  },
+  {
+    "county": "Denton County",
+    "metro_area": "Denton, Lewisville",
+    "combined_rate_pre_exemption_pct": 2.05,
+    "annual_tax_400k_after_140k_homestead_usd": 5330,
+    "monthly_impact_usd": 444
+  },
+  {
+    "county": "Travis County",
+    "metro_area": "Austin, Lakeway",
+    "combined_rate_pre_exemption_pct": 1.93,
+    "annual_tax_400k_after_140k_homestead_usd": 5018,
+    "monthly_impact_usd": 418
+  },
+  {
+    "county": "Bexar County",
+    "metro_area": "San Antonio",
+    "combined_rate_pre_exemption_pct": 1.99,
+    "annual_tax_400k_after_140k_homestead_usd": 5174,
+    "monthly_impact_usd": 431
+  }
+]

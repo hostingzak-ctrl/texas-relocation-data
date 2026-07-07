@@ -44,6 +44,40 @@ Break-even columns contain two non-numeric sentinel values:
 
 Full methodology with source links: https://www.relocatemetx.com/texas/no-income-tax-break-even/#methodology
 
+## Dataset: Texas Property Tax by County (2026)
+
+**Files:** [`data/texas-property-tax-by-county-2026.csv`](data/texas-property-tax-by-county-2026.csv) · [`data/texas-property-tax-by-county-2026.json`](data/texas-property-tax-by-county-2026.json)
+**Canonical page:** https://www.relocatemetx.com/texas/property-tax/
+
+Combined property-tax rates (before exemptions) for the eight largest Texas metro-area counties, with the estimated annual and monthly bill on a $400,000 home after the $140,000 homestead exemption.
+
+| Column | Description |
+|---|---|
+| `county` | Texas county |
+| `metro_area` | Representative cities in the county |
+| `combined_rate_pre_exemption_pct` | Combined property-tax rate across all taxing jurisdictions, before exemptions (%) |
+| `annual_tax_400k_after_140k_homestead_usd` | Estimated annual bill: ($400,000 − $140,000 homestead) × rate |
+| `monthly_impact_usd` | Annual bill ÷ 12 |
+
+Sources: county appraisal districts, SmartAsset, Texas Comptroller. Verified March 2026. (Dallas County rate shown as ~2.23%.)
+
+## Dataset: Texas vs. California Comparison (2026)
+
+**Files:** [`data/texas-vs-california-2026.csv`](data/texas-vs-california-2026.csv) · [`data/texas-vs-california-2026.json`](data/texas-vs-california-2026.json)
+**Canonical page:** https://www.relocatemetx.com/texas/compare/california/
+
+Fifteen head-to-head relocation metrics comparing Texas and California — taxes, housing, cost of living, insurance, healthcare, jobs, hazards, and transit — with which state comes out ahead on each.
+
+| Column | Description |
+|---|---|
+| `metric` | The metric compared |
+| `texas` | Texas value |
+| `california` | California value |
+| `advantage` | Which state is favorable: `texas`, `california`, or `tie` |
+| `note` | Context / caveat |
+
+Sources: Tax Foundation, C2ER, Zillow/Redfin, AAA, Census, Fortune, state agencies (2025–2026). See the canonical page for per-metric citations.
+
 ## Source & License
 
 This dataset is published and maintained by **RelocateMeTX** (https://www.relocatemetx.com/).

@@ -1,0 +1,107 @@
+[
+  {
+    "metric": "State Income Tax",
+    "texas": "0%",
+    "california": "1%–13.3% (+ 1.1% SDI)",
+    "advantage": "texas",
+    "note": "California has the highest state income tax rate in the US"
+  },
+  {
+    "metric": "Property Tax (effective)",
+    "texas": "1.8%–2.35%",
+    "california": "0.68%–0.87% (Prop 13)",
+    "advantage": "california",
+    "note": "CA Prop 13 caps assessed value increases at 2%/yr"
+  },
+  {
+    "metric": "Median Home Price (statewide)",
+    "texas": "$335,000",
+    "california": "$850,000",
+    "advantage": "texas",
+    "note": "Zillow/Redfin 2025–2026 statewide median"
+  },
+  {
+    "metric": "Average Rent (1BR)",
+    "texas": "$1,100–$1,450",
+    "california": "$1,650–$2,950",
+    "advantage": "texas",
+    "note": "Range spans major metros in each state"
+  },
+  {
+    "metric": "Grocery Cost Index",
+    "texas": "96.5 (below avg)",
+    "california": "113.8 (above avg)",
+    "advantage": "texas",
+    "note": "C2ER Cost of Living Index, 100 = national average"
+  },
+  {
+    "metric": "Gas Price (avg/gal)",
+    "texas": "~$2.90",
+    "california": "~$4.90",
+    "advantage": "texas",
+    "note": "AAA state average, March 2026"
+  },
+  {
+    "metric": "Auto Insurance (full coverage)",
+    "texas": "$2,394/yr",
+    "california": "$2,462/yr",
+    "advantage": "tie",
+    "note": "Nearly identical; varies by metro and driving record"
+  },
+  {
+    "metric": "Homeowner's Insurance ($300K)",
+    "texas": "$4,400/yr",
+    "california": "$1,452/yr",
+    "advantage": "california",
+    "note": "TX 3x higher due to hail, wind, and flood risk"
+  },
+  {
+    "metric": "Minimum Wage",
+    "texas": "$7.25/hr",
+    "california": "$16.50/hr",
+    "advantage": "california",
+    "note": "TX follows federal minimum; most TX employers pay above it"
+  },
+  {
+    "metric": "Uninsured Rate",
+    "texas": "16.6% (highest in US)",
+    "california": "6.5%",
+    "advantage": "california",
+    "note": "TX has not expanded Medicaid under the ACA"
+  },
+  {
+    "metric": "Medicaid Expansion",
+    "texas": "No",
+    "california": "Yes",
+    "advantage": "california",
+    "note": "~5M Texans lack coverage vs. broader CA safety net"
+  },
+  {
+    "metric": "Sales Tax (combined avg)",
+    "texas": "6.25%–8.25%",
+    "california": "7.25%–10.25%",
+    "advantage": "texas",
+    "note": "Both states have high combined sales tax rates"
+  },
+  {
+    "metric": "Fortune 500 HQs",
+    "texas": "55",
+    "california": "53",
+    "advantage": "texas",
+    "note": "TX overtook CA in 2024; gap is widening"
+  },
+  {
+    "metric": "Top Natural Hazard",
+    "texas": "Hurricanes / Tornadoes / Floods",
+    "california": "Earthquakes / Wildfires",
+    "advantage": "tie",
+    "note": "Different risk profiles; neither state is hazard-free"
+  },
+  {
+    "metric": "Transit Infrastructure",
+    "texas": "Car-dependent (DART in DFW)",
+    "california": "Better (LA Metro, BART, Muni)",
+    "advantage": "california",
+    "note": "CA has more transit options in its major metros"
+  }
+]
