@@ -1,0 +1,49 @@
+{
+  "title": "Texas No-Income-Tax Break-Even by Origin State (2026)",
+  "publisher": "RelocateMeTX",
+  "scenario": "Married-filing-jointly household, $200,000 taxable income",
+  "methodology": "Break-even home value = state income tax saved by moving to TX / (TX effective property-tax rate - origin-state effective property-tax rate). State effective property-tax rates: Tax Foundation, 2024 (tax paid as share of owner-occupied home value). State income tax: computed from 2025 state tax brackets (IL flat 4.95%; CA/NY progressive). TX has no state income tax. TX effective owner-occupied property-tax rate modeled across a 1.40%-2.00% range (1.40% = TX statewide TF 2024; ~1.6-1.7% = DFW new-buyer effective with homestead; ~2.0% = higher-tax urban metro). Figures are for one income scenario and illustrate direction, not individual tax advice.",
+  "limitations": "Single income level ($200K taxable MFJ); ignores sales tax, deductions beyond the scenario, and SALT-cap interactions; metro and county rates vary widely within Texas; not individualized tax advice.",
+  "rows": [
+    {
+      "origin_state": "California",
+      "state_income_tax_on_200k_MFJ": 11477,
+      "state_effective_property_tax_rate_pct": 0.7,
+      "breakeven_home_value_TX_1_40pct": 1639571,
+      "breakeven_home_value_TX_1_80pct": 1043364,
+      "breakeven_home_value_TX_2_00pct": 882846
+    },
+    {
+      "origin_state": "New York",
+      "state_income_tax_on_200k_MFJ": 10864,
+      "state_effective_property_tax_rate_pct": 1.3,
+      "breakeven_home_value_TX_1_40pct": 10864000,
+      "breakeven_home_value_TX_1_80pct": 2172800,
+      "breakeven_home_value_TX_2_00pct": 1552000
+    },
+    {
+      "origin_state": "Illinois",
+      "state_income_tax_on_200k_MFJ": 9900,
+      "state_effective_property_tax_rate_pct": 1.88,
+      "breakeven_home_value_TX_1_40pct": "Texas always cheaper",
+      "breakeven_home_value_TX_1_80pct": "Texas always cheaper",
+      "breakeven_home_value_TX_2_00pct": 8250000
+    },
+    {
+      "origin_state": "Florida",
+      "state_income_tax_on_200k_MFJ": 0,
+      "state_effective_property_tax_rate_pct": 0.78,
+      "breakeven_home_value_TX_1_40pct": "Texas always costs more",
+      "breakeven_home_value_TX_1_80pct": "Texas always costs more",
+      "breakeven_home_value_TX_2_00pct": "Texas always costs more"
+    },
+    {
+      "origin_state": "Washington",
+      "state_income_tax_on_200k_MFJ": 0,
+      "state_effective_property_tax_rate_pct": 0.75,
+      "breakeven_home_value_TX_1_40pct": "Texas always costs more",
+      "breakeven_home_value_TX_1_80pct": "Texas always costs more",
+      "breakeven_home_value_TX_2_00pct": "Texas always costs more"
+    }
+  ]
+}

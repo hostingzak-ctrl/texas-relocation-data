@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Texas No-Income-Tax Break-Even by Origin State (2026)"
+authors:
+  - name: "RelocateMeTX Editorial Team"
+    website: "https://www.relocatemetx.com/"
+date-released: "2026-06-29"
+url: "https://www.relocatemetx.com/texas/no-income-tax-break-even/"
+repository-code: "https://github.com/hostingzak-ctrl/texas-relocation-data"
+license: CC-BY-4.0
+abstract: >-
+  For a married-filing-jointly household with $200,000 taxable income, the home
+  value at which Texas property tax erases the savings from Texas having no
+  state income tax, by origin state (California, New York, Illinois, Florida,
+  Washington). Modeled at 1.40%, 1.80%, and 2.00% Texas effective
+  owner-occupied property-tax rates. Sources: Tax Foundation 2024 effective
+  property-tax rates; 2025 state income-tax brackets.

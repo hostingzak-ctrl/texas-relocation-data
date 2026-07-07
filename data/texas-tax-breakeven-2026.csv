@@ -1,0 +1,6 @@
+origin_state,state_income_tax_on_200k_MFJ,state_effective_property_tax_rate_pct,breakeven_home_value_TX_1_40pct,breakeven_home_value_TX_1_80pct,breakeven_home_value_TX_2_00pct
+California,11477,0.7,1639571,1043364,882846
+New York,10864,1.3,10864000,2172800,1552000
+Illinois,9900,1.88,Texas always cheaper,Texas always cheaper,8250000
+Florida,0,0.78,Texas always costs more,Texas always costs more,Texas always costs more
+Washington,0,0.75,Texas always costs more,Texas always costs more,Texas always costs more
