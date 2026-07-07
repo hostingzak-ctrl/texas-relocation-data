@@ -2,6 +2,8 @@
 
 Open, citable datasets behind [RelocateMeTX](https://www.relocatemetx.com/) data studies on moving to Texas (Dallas, Houston, Austin). Each dataset in this repo is published under **CC BY 4.0** and mirrors a canonical study page on relocatemetx.com, which always carries the newest version.
 
+📊 **Browse the data online:** https://hostingzak-ctrl.github.io/texas-relocation-data/
+
 ## Dataset: Texas No-Income-Tax Break-Even by Origin State (2026)
 
 **Files:** [`data/texas-tax-breakeven-2026.csv`](data/texas-tax-breakeven-2026.csv) · [`data/texas-tax-breakeven-2026.json`](data/texas-tax-breakeven-2026.json)
